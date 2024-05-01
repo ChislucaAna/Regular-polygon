@@ -1,0 +1,16 @@
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\bin\Debug\net8.0-windows\PoligonRegulat.exe
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\bin\Debug\net8.0-windows\PoligonRegulat.deps.json
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\bin\Debug\net8.0-windows\PoligonRegulat.runtimeconfig.json
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\bin\Debug\net8.0-windows\PoligonRegulat.dll
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\bin\Debug\net8.0-windows\PoligonRegulat.pdb
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.Form1.resources
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.csproj.GenerateResource.cache
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.AssemblyInfoInputs.cache
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.AssemblyInfo.cs
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.csproj.CoreCompileInputs.cache
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.dll
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\refint\PoligonRegulat.dll
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.pdb
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\PoligonRegulat.genruntimeconfig.cache
+C:\Users\anach\OneDrive\Desktop\PoligonRegulat\PoligonRegulat\obj\Debug\net8.0-windows\ref\PoligonRegulat.dll

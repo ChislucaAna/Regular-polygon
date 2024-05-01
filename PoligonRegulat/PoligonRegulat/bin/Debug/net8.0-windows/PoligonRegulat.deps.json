@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PoligonRegulat/1.0.0": {
+        "runtime": {
+          "PoligonRegulat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PoligonRegulat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
